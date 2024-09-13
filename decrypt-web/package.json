@@ -1,0 +1,11 @@
+{
+    "name": "decryptweb23",
+    "version": "19.13.5",
+    "description": "decryptweb23",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=16"
+    }
+}
